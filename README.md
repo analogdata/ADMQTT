@@ -4,6 +4,40 @@ A fully containerized MQTT management tool with a branded Streamlit UI. Includes
 
 ![Analog Data](https://cdn.analogdata.ai/static/images/logo/ad_logo.png)
 
+## Live Demo
+
+The app is deployed on **Streamlit Community Cloud** and can be accessed directly:
+
+**🔗 [ad-mqtt.streamlit.app](https://ad-mqtt.streamlit.app)**
+
+### Preview
+
+<a href="https://ad-mqtt.streamlit.app" target="_blank">
+  <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit" />
+</a>
+
+<iframe
+  src="https://ad-mqtt.streamlit.app/?embed_options=show_toolbar,light_theme,show_colored_line,show_padding,disable_scrolling,show_footer"
+  height="600"
+  style="width:100%;border:1px solid #e2e8f0;border-radius:12px;"
+></iframe>
+
+> **Note:** The embedded preview above renders on platforms that support HTML iframes (e.g., GitHub Pages, Notion). On GitHub README, use the direct link instead.
+
+### Embed in Your Own Page
+
+To embed this app in any HTML page or documentation site:
+
+```html
+<iframe
+  src="https://ad-mqtt.streamlit.app/?embed_options=show_toolbar,light_theme,show_colored_line,show_padding,disable_scrolling,show_footer"
+  height="600"
+  style="width:100%;border:none;border-radius:12px;"
+></iframe>
+```
+
+---
+
 ## Project Structure
 
 ```
