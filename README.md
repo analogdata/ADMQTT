@@ -6,27 +6,21 @@ A fully containerized MQTT management tool with a branded Streamlit UI. Includes
 
 ## Live Demo
 
-The app is deployed on **Streamlit Community Cloud** and can be accessed directly:
+The app is deployed on **Streamlit Community Cloud**:
 
-**🔗 [ad-mqtt.streamlit.app](https://ad-mqtt.streamlit.app)**
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ad-mqtt.streamlit.app)
 
-### Preview
+### Screenshots
 
-<a href="https://ad-mqtt.streamlit.app" target="_blank">
-  <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit" />
-</a>
+| Dashboard | Publisher | Subscriber |
+|:---------:|:---------:|:----------:|
+| [![Dashboard](docs/screenshots/screen_01.png)](https://ad-mqtt.streamlit.app) | [![Publisher](docs/screenshots/screen_02.png)](https://ad-mqtt.streamlit.app/publisher) | [![Subscriber](docs/screenshots/screen_03.png)](https://ad-mqtt.streamlit.app/subscriber) |
 
-<iframe
-  src="https://ad-mqtt.streamlit.app/?embed_options=show_toolbar,light_theme,show_colored_line,show_padding,disable_scrolling,show_footer"
-  height="600"
-  style="width:100%;border:1px solid #e2e8f0;border-radius:12px;"
-></iframe>
-
-> **Note:** The embedded preview above renders on platforms that support HTML iframes (e.g., GitHub Pages, Notion). On GitHub README, use the direct link instead.
+> Click any screenshot to open the live app.
 
 ### Embed in Your Own Page
 
-To embed this app in any HTML page or documentation site:
+To embed this app in any HTML page or documentation site, use the following iframe:
 
 ```html
 <iframe
